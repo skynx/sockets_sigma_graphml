@@ -14,7 +14,7 @@ Satisfaction not guaranteed, twiddle to your heart's content.
 
 For fun!  And because I wanted to be able to quickly visualize the
 output from
-(DistrictDataLabs/tribe)[https://github.com/DistrictDataLabs/tribe]
+[DistrictDataLabs/tribe](https://github.com/DistrictDataLabs/tribe)
 without a lot of GUI overhead.
 
 ## using this example
